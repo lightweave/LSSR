@@ -5,7 +5,7 @@ This project started to make a systematic review of developments in space scienc
 
 Landscape of Space Science Research
 
-## Materials and methodsp
+## Materials and methods
 
 Primary method of analisys is Gource, applied to a database of space science articles.
 
@@ -27,4 +27,3 @@ Primary method of analisys is Gource, applied to a database of space science art
 Inspirational video <https://www.youtube.com/watch?v=pOSqctHH9vY> presents possible end-point of this review project.
 dendrogram
 <https://www.equator-network.org/reporting-guidelines/>
-
