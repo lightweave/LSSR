@@ -11,9 +11,13 @@ All primary texts and metadata downloaded with **fulltext** package, part of **r
 
 <https://github.com/ropensci/fulltext>
 
+
+
 ### Library preparing
 
-First we scan all articles for common terms. All high - frequency terms added to the dictionary. Every expert collect terms related to separate section of space research. Second the experts analyze dictionary for synonyms and clear his part of dictionary. It is the most time consuming procedure. 
+First we scan all articles for common terms. All high - frequency terms added to the dictionary. https://www.r-bloggers.com/qualitative-text-analysis-in-r-with-rqda/
+
+Every expert collect terms related to separate section of space research. Second the experts analyze dictionary for synonyms and clear his part of dictionary. It is the most time consuming procedure. 
 
 <https://www.r-bloggers.com/qualitative-text-analysis-in-r-with-rqda/>
 
