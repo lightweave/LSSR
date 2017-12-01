@@ -3,11 +3,11 @@ This project started to make a systematic review of developments in space scienc
 
 ## Materials and methods
 
-Primary method of analysis is Gource, applied to a database of space science articles. For appropriate 
+Primary method of analysis is Gource visualisation program. We apply Gource to a database of terms in space science articles. Appropriate reformatting of articles metadata to involve Gource software:
 
 <https://github.com/acaudwell/Gource/wiki/Custom-Log-Format>
 
-All text was downloaded and using fulltext package, part of ropensci project.
+All primary texts and metadata downloaded with **fulltext** package, part of **ropensci** project:
 
 <https://github.com/ropensci/fulltext>
 
@@ -31,6 +31,6 @@ First we scan all articles for common terms. All high - frequency terms added to
 
 ## Results
 
-Inspirational video <https://www.youtube.com/watch?v=pOSqctHH9vY> presents possible end-point of this review project.
+Inspirational video <https://www.youtube.com/watch?v=pOSqctHH9vY> presents possible end-point of this review project. Some modifications needed in Gource to acknowledge the magnitude of relationships between terms. 
 Present a dendrogram of terms in space science.
 
