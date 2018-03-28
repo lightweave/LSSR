@@ -32,6 +32,9 @@ Every expert collect terms related to separate section of space research. Second
 
 [Ten Simple Rules for Writing a Literature Review]( http://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1003149 )
 
+### Library peer review
+for visualising terms and relation, another words graphs, we use gephi and cmap software. 
+https://cmap.ihmc.us/publications/research-publications.php 
 
 ## Results
 
